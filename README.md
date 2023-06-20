@@ -5,6 +5,8 @@
   
   Load shedding is used to relieve stress on primary energy sources. That would be done by shifting a load from the LabVIEW software is used to implement the load management strategies in this research paper. LabVIEW is a powerful software tool that allows for the development of custom test and measurement systems, making it ideal for implementing load management strategies in a hybrid energy system.
 
+# Poster 
+![Screenshot (80)](https://github.com/RanjeetHambire/Source-Extraction-And-Management-Under-Load-Shedding-Condition/assets/92366321/446ade6b-ab9f-46d1-8366-5224eea6bfd7)
 
 
 ## Benefits 
