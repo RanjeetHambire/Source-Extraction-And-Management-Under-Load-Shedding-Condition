@@ -1,7 +1,7 @@
 
 # Source Management & Extraction Under Load Shedding
 
-  The source management is an important aspect of energy management, especially in a scenario where demand for electricity exceeds the capacity of primary energy sources.
+  The source management is an important aspect of energy management, especially in a scenario where demand for electricity exceeds the capacity of primary Energy Sources.
   
   Load shedding is used to relieve stress on primary energy sources. That would be done by shifting a load from the LabVIEW software is used to implement the load management strategies in this research paper. LabVIEW is a powerful software tool that allows for the development of custom test and measurement systems, making it ideal for implementing load management strategies in a hybrid energy system.
 
